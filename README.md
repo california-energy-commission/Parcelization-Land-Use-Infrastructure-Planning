@@ -5,4 +5,4 @@ These scripts were created for the California Public Utilities Commission Integr
 Parcelization_Part1_MergeCounties.ipynb performs a series of data preparation steps to create the foundational dataset that is needed to calculate parcelization. Raw parcel data is combined so that each county contains the necessary parcels needed to perform the parcelization calculation, including those parcels of adjacent counties that will impact the parcelization measure inside the county. The second script, Parcelization_Part2_MainSteps.ipynb, performs the main steps to calculate parcelization for each county. All counties are merged into a single map.   
 
 
-We are grateful to the ICF, E&P GIS Team Lead and Staff, Eric Link and Greg Nichols, for their support in supplying the overall method procedure. 
+We are grateful to the ICF, E&P GIS Team Lead and Staff, Eric Link and Greg Nichols, for their technical support and insight into this method. 
